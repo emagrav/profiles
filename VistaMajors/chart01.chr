@@ -2,7 +2,7 @@
 id=132820016281674731
 symbol=USDJPY
 period=1440
-leftpos=1289
+leftpos=1288
 digits=3
 scale=8
 graph=1
@@ -23,7 +23,7 @@ window_left=0
 window_top=0
 window_right=1020
 window_bottom=584
-window_type=1
+window_type=3
 background_color=0
 foreground_color=16777215
 barup_color=65280

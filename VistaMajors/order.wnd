@@ -1,5 +1,3 @@
-EURJPY,Daily
-EURGBP,Daily
 CHFJPY,Daily
 GBPCHF,Daily
 CADCHF,Daily
@@ -7,9 +5,11 @@ USDCHF,Daily
 GBPJPY,Daily
 EURCHF,Daily
 EURCAD,Daily
-USDCAD,Daily
-GBPCAD,Daily
-USDJPY,Daily
-GBPUSD,Daily
 EURUSD,Daily
+GBPUSD,Daily
 CADJPY,Daily
+GBPCAD,Daily
+USDCAD,Daily
+EURGBP,Daily
+EURJPY,Daily
+USDJPY,Daily
