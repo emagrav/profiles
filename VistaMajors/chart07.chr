@@ -1,10 +1,10 @@
 <chart>
-id=132820016281674737
-symbol=EURJPY
+id=132820016281674744
+symbol=GBPCAD
 period=1440
-leftpos=1289
-digits=3
-scale=8
+leftpos=1194
+digits=5
+scale=1
 graph=1
 fore=0
 grid=0
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=1
-object_name=Horizontal Line 64660
+object_name=Horizontal Line 1307
 period_flags=0
-create_time=1638005908
+create_time=1638008091
 color=65535
 style=0
 weight=1
@@ -54,13 +54,13 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=127.844195
+value_0=1.777030
 </object>
 <object>
 type=1
-object_name=Horizontal Line 64692
+object_name=Horizontal Line 1329
 period_flags=0
-create_time=1638005940
+create_time=1638008113
 color=65535
 style=0
 weight=1
@@ -69,37 +69,58 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=133.473991
+value_0=1.678105
 </object>
 <object>
-type=0
-object_name=Vertical Line 3604
+type=22
+object_name=Arrow 59289
 period_flags=0
-create_time=1639058964
+create_time=1639507865
 color=65535
-style=4
-weight=1
-background=1
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1639094400
-</object>
-<object>
-type=1
-object_name=Horizontal Line 34910
-period_flags=0
-create_time=1639155806
-color=2263842
-style=0
 weight=1
 background=0
+symbol_code=67
+anchor_pos=0
 filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=127.326727
+time_0=1639429800
+value_0=1.691820
+</object>
+<object>
+type=22
+object_name=Arrow 59375
+period_flags=0
+create_time=1639507951
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1639267200
+value_0=1.689251
+</object>
+<object>
+type=22
+object_name=Arrow 59396
+period_flags=0
+create_time=1639507972
+color=65535
+weight=1
+background=0
+symbol_code=68
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1639511160
+value_0=1.700720
 </object>
 </indicator>
 </window>

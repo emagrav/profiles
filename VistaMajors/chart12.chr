@@ -1,10 +1,10 @@
 <chart>
-id=132820016281674733
-symbol=USDCHF
+id=132820016281674738
+symbol=EURCAD
 period=1440
-leftpos=1042
+leftpos=1194
 digits=5
-scale=4
+scale=1
 graph=1
 fore=0
 grid=0
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=2
-object_name=Trendline 49459
+object_name=Trendline 64837
 period_flags=0
-create_time=1637925171
+create_time=1638006085
 color=32896
 style=0
 weight=3
@@ -54,17 +54,17 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1608249600
-value_0=0.876217
-time_1=1642464000
-value_1=0.918033
+time_0=1591574400
+value_0=1.554385
+time_1=1641600000
+value_1=1.403612
 ray=0
 </object>
 <object>
 type=2
-object_name=Trendline 49468
+object_name=Trendline 64846
 period_flags=0
-create_time=1637925180
+create_time=1638006094
 color=32896
 style=0
 weight=3
@@ -73,36 +73,47 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1599004800
-value_0=0.900687
-time_1=1644883200
-value_1=0.948389
+time_0=1608422400
+value_0=1.580092
+time_1=1646784000
+value_1=1.454468
 ray=0
 </object>
 <object>
-type=2
-object_name=Trendline 49629
+type=1
+object_name=Horizontal Line 64902
 period_flags=0
-create_time=1637925341
-color=32896
+create_time=1638006150
+color=65535
 style=0
-weight=3
+weight=1
 background=0
 filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1594166400
-value_0=0.922680
-time_1=1645056000
-value_1=0.971310
-ray=0
+value_0=1.580577
+</object>
+<object>
+type=1
+object_name=Horizontal Line 64942
+period_flags=0
+create_time=1638006190
+color=65535
+style=0
+weight=1
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+value_0=1.445737
 </object>
 <object>
 type=0
-object_name=Vertical Line 3700
+object_name=Vertical Line 3566
 period_flags=0
-create_time=1639059060
+create_time=1639058926
 color=65535
 style=4
 weight=1

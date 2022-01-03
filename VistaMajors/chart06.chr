@@ -1,10 +1,10 @@
 <chart>
-id=132820016281674736
-symbol=EURGBP
+id=132820016281674743
+symbol=CADJPY
 period=1440
-leftpos=1289
-digits=5
-scale=8
+leftpos=1189
+digits=3
+scale=1
 graph=1
 fore=0
 grid=0
@@ -42,10 +42,25 @@ fixed_height=0
 <indicator>
 name=main
 <object>
-type=2
-object_name=Trendline 64494
+type=1
+object_name=Horizontal Line 1086
 period_flags=0
-create_time=1638005742
+create_time=1638007870
+color=65535
+style=0
+weight=1
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+value_0=91.573673
+</object>
+<object>
+type=2
+object_name=Trendline 1104
+period_flags=0
+create_time=1638007888
 color=32896
 style=0
 weight=3
@@ -54,17 +69,17 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1612656000
-value_0=0.877430
-time_1=1639872000
-value_1=0.856492
+time_0=1576713600
+value_0=77.860273
+time_1=1646784000
+value_1=89.263748
 ray=0
 </object>
 <object>
 type=2
-object_name=Trendline 64506
+object_name=Trendline 1165
 period_flags=0
-create_time=1638005754
+create_time=1638007949
 color=32896
 style=0
 weight=3
@@ -73,17 +88,17 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1612915200
-value_0=0.854801
-time_1=1639785600
-value_1=0.836027
+time_0=1635984000
+value_0=93.230431
+time_1=1587859200
+value_1=86.236899
 ray=0
 </object>
 <object>
 type=0
-object_name=Vertical Line 3556
+object_name=Vertical Line 3739
 period_flags=0
-create_time=1639058916
+create_time=1639059099
 color=65535
 style=4
 weight=1
@@ -93,6 +108,23 @@ selectable=1
 hidden=0
 zorder=0
 time_0=1639094400
+</object>
+<object>
+type=22
+object_name=Arrow 19695
+period_flags=0
+create_time=1639664879
+color=65535
+weight=1
+background=0
+symbol_code=67
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1639612800
+value_0=89.208000
 </object>
 </indicator>
 </window>

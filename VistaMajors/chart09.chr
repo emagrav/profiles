@@ -1,10 +1,10 @@
 <chart>
-id=132820016281674738
-symbol=EURCAD
+id=132820016281674736
+symbol=EURGBP
 period=1440
-leftpos=529
+leftpos=1621
 digits=5
-scale=1
+scale=2
 graph=1
 fore=0
 grid=0
@@ -12,7 +12,7 @@ volume=0
 scroll=1
 shift=1
 ohlc=1
-one_click=0
+one_click=1
 one_click_btn=1
 askline=1
 days=1
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=2
-object_name=Trendline 64837
+object_name=Trendline 64494
 period_flags=0
-create_time=1638006085
+create_time=1638005742
 color=32896
 style=0
 weight=3
@@ -54,17 +54,17 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1591574400
-value_0=1.554385
-time_1=1641600000
-value_1=1.403612
+time_0=1612656000
+value_0=0.877430
+time_1=1642118400
+value_1=0.854734
 ray=0
 </object>
 <object>
 type=2
-object_name=Trendline 64846
+object_name=Trendline 64506
 period_flags=0
-create_time=1638006094
+create_time=1638005754
 color=32896
 style=0
 weight=3
@@ -73,47 +73,17 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1608422400
-value_0=1.580092
-time_1=1646784000
-value_1=1.454468
+time_0=1612915200
+value_0=0.854801
+time_1=1644451200
+value_1=0.833968
 ray=0
 </object>
 <object>
-type=1
-object_name=Horizontal Line 64902
-period_flags=0
-create_time=1638006150
-color=65535
-style=0
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-value_0=1.580577
-</object>
-<object>
-type=1
-object_name=Horizontal Line 64942
-period_flags=0
-create_time=1638006190
-color=65535
-style=0
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-value_0=1.445737
-</object>
-<object>
 type=0
-object_name=Vertical Line 3566
+object_name=Vertical Line 3556
 period_flags=0
-create_time=1639058926
+create_time=1639058916
 color=65535
 style=4
 weight=1

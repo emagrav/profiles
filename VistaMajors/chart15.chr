@@ -1,10 +1,10 @@
 <chart>
-id=132820016281674741
-symbol=CHFJPY
+id=132820016281674739
+symbol=GBPCHF
 period=1440
-leftpos=963
-digits=3
-scale=2
+leftpos=1835
+digits=5
+scale=4
 graph=1
 fore=0
 grid=0
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=2
-object_name=Trendline 452
+object_name=Trendline 65369
 period_flags=0
-create_time=1638007236
+create_time=1638006617
 color=32896
 style=0
 weight=3
@@ -54,17 +54,17 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1555891200
-value_0=109.593764
-time_1=1639785600
-value_1=126.083560
+time_0=1610323200
+value_0=1.267977
+time_1=1641513600
+value_1=1.233535
 ray=0
 </object>
 <object>
 type=2
-object_name=Trendline 520
+object_name=Trendline 65054
 period_flags=0
-create_time=1638007304
+create_time=1638006302
 color=32896
 style=0
 weight=3
@@ -73,17 +73,55 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1569456000
-value_0=106.616440
-time_1=1642464000
-value_1=121.441294
+time_0=1522108800
+value_0=1.380532
+time_1=1645574400
+value_1=1.265241
+ray=0
+</object>
+<object>
+type=2
+object_name=Trendline 65116
+period_flags=0
+create_time=1638006364
+color=32896
+style=0
+weight=3
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1500163200
+value_0=1.239100
+time_1=1628812800
+value_1=1.133193
+ray=0
+</object>
+<object>
+type=2
+object_name=Trendline 65340
+period_flags=0
+create_time=1638006588
+color=32896
+style=0
+weight=3
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1558828800
+value_0=1.239746
+time_1=1644624000
+value_1=1.202233
 ray=0
 </object>
 <object>
 type=0
-object_name=Vertical Line 3759
+object_name=Vertical Line 3660
 period_flags=0
-create_time=1639059119
+create_time=1639059020
 color=65535
 style=4
 weight=1
