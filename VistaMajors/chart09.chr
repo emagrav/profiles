@@ -2,9 +2,9 @@
 id=132820016281674736
 symbol=EURGBP
 period=1440
-leftpos=1624
+leftpos=1995
 digits=5
-scale=2
+scale=16
 graph=1
 fore=0
 grid=0
@@ -56,8 +56,8 @@ hidden=0
 zorder=0
 time_0=1612656000
 value_0=0.877430
-time_1=1642118400
-value_1=0.854734
+time_1=1642032000
+value_1=0.856097
 ray=0
 </object>
 <object>

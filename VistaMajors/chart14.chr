@@ -2,9 +2,9 @@
 id=132820016281674740
 symbol=GBPJPY
 period=1440
-leftpos=1838
+leftpos=1617
 digits=3
-scale=4
+scale=2
 graph=1
 fore=0
 grid=0
